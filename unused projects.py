@@ -49,3 +49,6 @@ for project in projects:
 
 for project in project_commit_dates:
   print(f"Project Key: {project[projectKey]}, Project Name: {project[projectName]}, Project Owner: {project[projectOwner]}, Last Commit Date: {project[lastCommitDate]}")
+
+
+
