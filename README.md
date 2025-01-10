@@ -92,4 +92,4 @@ You can further customize the script to output results to a file (e.g., CSV or J
 - You could add additional filtering based on project status (e.g., only active projects).
 - Extend the script to send an email or a Slack notification for projects not updated in the past year.
 
-This should give you a fully functional and well-documented script to list uncommitted projects in Dataiku. Let me know if you'd like any further adjustments!
+This should give you a fully functional and well-documented script to list uncommitted projects in Dataiku. Let me know if you'd like any further adjustments! 
