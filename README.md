@@ -15,7 +15,7 @@ Automating the process of identifying Dataiku projects that haven't had any comm
 
 ### **Benefits of the Automation Python Script**
 
-1. **Improved Resource Management**:
+1. **Improved Resource Management**: 
    - **Archiving Unused Projects**: Projects that are not being actively worked on can be archived to save storage and reduce clutter. This makes it easier to focus on active projects.
    - **Optimizing System Resources**: Identifying inactive projects allows you to shut down or reallocate compute resources that were assigned to these projects, which can lead to cost savings on infrastructure.
    
